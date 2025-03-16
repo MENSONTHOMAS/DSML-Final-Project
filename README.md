@@ -1,3 +1,5 @@
 # Predicting Offer Acceptance in Credit Card Marketing 
-## 🎯 Objective:
-To develop a machine learning model that predicts whether a customer will accept a credit card offer based on their demographic, financial, and account information.
+**Name:** Menson Thomas
+**Organization:** Entri Elevate
+**Date:** 16-03-2025
+
